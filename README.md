@@ -40,6 +40,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/IntelliJ_IDEA-282C34?logo=intellij-idea&logoColor=000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
+&nbsp;
 
 
 
